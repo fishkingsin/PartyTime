@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>07F85722-0C02-40E3-8693-FE2B1AFDCCE1</string>
+	<key>IDESourceControlProjectName</key>
+	<string>PartyTime</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>3FBB5347-A683-4CDB-8A9C-B3DB9772CD81</key>
+		<string>https://github.com/robotconscience/ofxBonjour.git</string>
+		<key>BCACB75D-343C-438C-895B-5F9E02EF61B8</key>
+		<string>https://github.com/fishkingsin/ofxMultipeerConnectivity.git</string>
+		<key>FC364C68-E87C-43EF-B386-5AB0B91B2773</key>
+		<string>https://github.com/fishkingsin/PartyTime.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>PartyTime.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>3FBB5347-A683-4CDB-8A9C-B3DB9772CD81</key>
+		<string>../../../../../addons/ofxBonjour</string>
+		<key>BCACB75D-343C-438C-895B-5F9E02EF61B8</key>
+		<string>../../../../../addons/ofxMultipeerConnectivity</string>
+		<key>FC364C68-E87C-43EF-B386-5AB0B91B2773</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/fishkingsin/PartyTime.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>FC364C68-E87C-43EF-B386-5AB0B91B2773</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>3FBB5347-A683-4CDB-8A9C-B3DB9772CD81</string>
+			<key>IDESourceControlWCCName</key>
+			<string>ofxBonjour</string>
+		</dict>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>BCACB75D-343C-438C-895B-5F9E02EF61B8</string>
+			<key>IDESourceControlWCCName</key>
+			<string>ofxMultipeerConnectivity</string>
+		</dict>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>FC364C68-E87C-43EF-B386-5AB0B91B2773</string>
+			<key>IDESourceControlWCCName</key>
+			<string>PartyTime</string>
+		</dict>
+	</array>
+</dict>
+</plist>

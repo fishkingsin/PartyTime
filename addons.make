@@ -6,3 +6,4 @@ ofxAccelerometer
 ofxBonjour
 ofxiOS
 ofxMultiTouch
+ofxMultipeerConnectivity
